@@ -4,12 +4,19 @@ public class Ders_015_do_while {
 	
 	public static void main(String[] args) {
 		
-		int a = 1;
+		// sayınının negatif mi pozitif mi olduğunu bulan bir algoritmanı ?
 		
-		do {
-			System.out.println(a + " kere çalıştı kesin");
-			a++;
-		} while (a <= 8);
+		int sayi = 0;
+		if (sayi < 0) {
+			System.out.println("negatif sayısıdır");
+		} else if (sayi > 0) {
+			System.out.println("pozitif sayıdır");
+		} else {
+			System.out.println("sayı sıfır");
+		}
+		
+		String result = (sayi >= 0) ? "sayı pozitif" : "sayı negatiftir";
+		System.out.println(result);
 		
 	}
 	

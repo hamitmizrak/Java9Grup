@@ -6,13 +6,13 @@ import java.util.List;
 public class Ders_003_Java7 {
 	public static void main(String[] args) {
 		
-		while (true) {
-			System.out.println("Sonsuz döngü");
-			
-		}
-		
+		// while (true) {
+		// System.out.println("Sonsuz döngü");
+		//
+		// }
+		//
 		// java 7 gelen özllikler
-		long a = 0b0010000000000000000000000000000000;
+		int a = 0b0010000000000000000000;
 		System.out.println(a);
 		
 		// under score

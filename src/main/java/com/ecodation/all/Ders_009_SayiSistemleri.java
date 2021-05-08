@@ -4,16 +4,18 @@ public class Ders_009_SayiSistemleri {
 	
 	public static void main(String[] args) {
 		
-		// decimal sistemleri
-		int sayi1 = 4455;
+		int x, y;
+		x = 10;
+		y = 9;
 		
-		// binary system
-		int sayi2 = 0b00100;
-		System.out.println(sayi2);
-		
-		// hexadecimal
-		int sayi3 = 0x1ac;
-		System.out.println(sayi3);
+		String result = (x > y) ? "büyüktür" : "küçüktür";
+		System.out.println(result.toUpperCase());
+		// System.out.println(((x > y) ? "büyüktür" : "küçüktür"));
+		if (x > y) {
+			System.out.println("büyüktür");
+		} else {
+			System.out.println("küçüktür");
+		}
 		
 	}
 	

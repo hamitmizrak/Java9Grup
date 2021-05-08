@@ -10,7 +10,7 @@ public class Ders_018_try_catch3 {
 	}
 	
 	public static void main(String[] args) {
-		
+		int a = 0b001;
 		try {
 			int sayi = 15 / 0;
 			System.out.println(sayi);

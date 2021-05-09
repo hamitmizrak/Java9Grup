@@ -11,7 +11,7 @@ public class Ders_016_try_catch2 {
 		
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		
 		try {
 			int sayi = 3 / 0;
@@ -20,10 +20,6 @@ public class Ders_016_try_catch2 {
 		} catch (ArithmeticException ar) {
 			System.out.println("Hata var: " + ar.hashCode());
 			ar.printStackTrace();
-			// System.out.println(throw.ar);
-		} catch (IOException io) {
-			System.out.println("Hata var: " + io.hashCode());
-			io.printStackTrace();
 			// System.out.println(throw.ar);
 		} catch (Exception e) {
 			System.out.println("Hata var: " + e.hashCode());

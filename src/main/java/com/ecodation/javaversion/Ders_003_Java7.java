@@ -34,7 +34,6 @@ public class Ders_003_Java7 {
 		
 		// Generics
 		List<String> asd = new ArrayList<>();
-		
 		int degisken = 6;
 		
 	}

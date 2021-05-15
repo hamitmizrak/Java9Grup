@@ -29,8 +29,8 @@ public final class Ders_034_new_static_final_return_continue_break_null_sifir { 
 	// this= global değişkenlere yani herkesin erişmesini istediği yere erişmek
 	// super= üst atadan gelen verilere erişmek için kullanırız. metotlar,field
 	
-	// final= değişkenlerde sabit olur ,
-	// final=metotlarda override edemezsiniz, Classlarda
+	// final= değişkenlerde sabit olur.
+	// final= metotlarda override edemezsiniz, Classlarda
 	// final= kullanırsam override edemem.
 	
 	// constructor= kurucu metotlardır.

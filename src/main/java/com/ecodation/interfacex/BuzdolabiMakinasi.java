@@ -1,4 +1,4 @@
-package com.ecodatiion.interfacex;
+package com.ecodation.interfacex;
 
 import java.util.Random;
 

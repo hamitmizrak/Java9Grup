@@ -1,4 +1,4 @@
-package com.ecodatiion.interfacex;
+package com.ecodation.interfacex;
 
 // POJO inheritance
 // abstract

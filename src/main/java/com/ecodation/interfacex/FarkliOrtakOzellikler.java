@@ -1,4 +1,4 @@
-package com.ecodatiion.interfacex;
+package com.ecodation.interfacex;
 
 // interface
 public interface FarkliOrtakOzellikler {

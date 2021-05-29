@@ -1,4 +1,4 @@
-package com.ecodatiion.interfacex;
+package com.ecodation.interfacex;
 
 public enum RenklerOrnek {
 	beyaz(4), kirmizi(8), yesil(12), mavi(16);

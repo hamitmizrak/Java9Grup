@@ -3,7 +3,7 @@
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="9Grup1Mayis2021"/>
         <property name="java-output-path" value="/9Grup1Mayis2021/build/classes"/>
+        <property name="context-root" value="JavaSE9_1Mayis2021"/>
     </wb-module>
 </project-modules>
